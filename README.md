@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, my name is Aziz</h3>
-<h3 align="left">I'm developing web applications using Spring and backend development using Java and Spring and a lot more...</h3>
+<h3 align="left">I'm Java developer</h3>
 
 <br>
 

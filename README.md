@@ -55,7 +55,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg](https://camo.githubusercontent.com/b837435d86eb998e32980f09526c4aadc006884f2144dac4d3ee8a1fe375156e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a656e6b696e73)" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />

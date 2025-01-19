@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋 I'm Aziz<br>Java - developer</h1>
+<h1 align="left">Hi👋 I'm Aziz<br>Java developer</h1>
 
 ###
 
